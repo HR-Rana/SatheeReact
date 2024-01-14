@@ -1,0 +1,2311 @@
+@media only screen and (max-width: 1400px) {
+
+    .Hero-section .hero-left h3 span {
+        font-size: 56px;
+    }
+
+    .Hero-section .hero-right {
+        width: 46%;
+        position: absolute;
+        right: 0;
+        bottom: 0%;
+    }
+
+    /* testimonials  ends*/
+    .Compay-history-section .history-banner {
+        width: 100%;
+        height: 299px;
+    }
+
+    /* service page */
+    .weekly-consultation .left-site-img span img {
+        width: 75%;
+        height: 600px;
+    }
+
+    .signup-page span img {
+        background-color: white;
+    }
+
+
+    .signup-page .login-img img {
+        position: relative;
+    }
+
+    .signup-page .blur-text {
+        width: 100%;
+        height: 277.631px;
+        margin: 0;
+        border-radius: 10px;
+        position: absolute;
+        top: 65%;
+        left: 0px;
+        backdrop-filter: blur(100px);
+    }
+
+    /* blog page */
+    .Featured-month-section .content-texts .card-body {
+        justify-content: start;
+        flex-wrap: wrap;
+    }
+
+
+    /* portal page */
+    .prortal-layout .left-sitebar {
+        width: 20% !important;
+    }
+
+    .prortal-layout .right-siteContent {
+        padding-bottom: 50px;
+    }
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 1200px) {
+
+    /* nav bar styles */
+    .navigation-bar {
+        width: 80%;
+    }
+
+    .navigation-bar .nav-items ul li a {
+        font-size: 17px;
+    }
+
+    .section-title {
+        width: 65%;
+    }
+
+    /* hero section */
+    .Hero-section .hero-left {
+        width: 50%;
+        padding: 45px 0;
+    }
+
+    .Hero-section .hero-left h3 {
+        font-size: 42px;
+    }
+
+    .Hero-section .hero-left h3 span {
+        font-size: 48px;
+    }
+
+    .Hero-section .hero-right {
+        width: 50%;
+        position: absolute;
+        right: 0;
+        bottom: 0%;
+    }
+
+    .Hero-section .hero-left button {
+        width: 50%;
+    }
+
+    .why-choose-us .chooseUs-content-box {
+        flex-wrap: wrap;
+    }
+
+    .why-choose-us .content {
+        width: 32%;
+        margin: 15px 0;
+        text-align: center;
+    }
+
+    /* join our waiting list section */
+    .join-waitinglist-today {
+        margin-top: 155px;
+    }
+
+
+    .join-waitinglist-today .left-content {
+        height: fit-content;
+        margin: auto auto;
+        margin-top: 25px;
+        padding: 45px 0;
+        padding-bottom: 50px !important;
+
+    }
+
+    .join-waitinglist-today .left-content h3 {
+        font-size: 42px;
+        line-height: 45px;
+    }
+
+    .join-waitinglist-today .container {
+        height: fit-content;
+    }
+
+    .join-waitinglist-today .left-content {
+        height: 100%;
+        padding: 25px 0;
+    }
+
+    .join-waitinglist-today .left-content p {
+        margin: 10px 0;
+    }
+
+    .join-waitinglist-today .left-content .button {
+        padding: 0;
+        margin-top: 0;
+    }
+
+    .join-waitinglist-today .right-content img {
+        width: 85%;
+        position: absolute;
+        right: 25px;
+        bottom: 0;
+    }
+
+
+    /* about page company history */
+    .Compay-history-section .history-banner {
+        width: 100%;
+        height: 299px;
+    }
+
+
+    /* service page */
+    .weekly-consultation .right-site-content {
+        width: 50%;
+        position: relative;
+    }
+
+    .weekly-consultation .left-site-img span img {
+        width: 68%;
+        height: 600px;
+    }
+
+    /* portal page */
+    .prortal-layout .right-siteContent {
+        padding-bottom: 40px;
+    }
+
+    .prortal-layout .right-siteContent {
+        padding: 20px;
+    }
+
+
+    /* blog page */
+    .Featured-month-section .content-texts .card-body {
+        width: 90%;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        margin-bottom: 20px;
+    }
+
+    /* login page */
+    .signup-page .signup-area {
+        padding: 100px 0;
+    }
+
+    .signup-page .signup-form {
+        width: 45%;
+        margin: 0 auto;
+    }
+
+    .Singup-page .flex {
+        padding-bottom: 50px;
+    }
+
+    .signup-page .button button {
+        height: 52px;
+        font-size: 20px;
+    }
+
+    /* .signup-page form span label {
+            display: flex;
+            justify-content: center;
+        }
+
+        .signup-page form span:nth-child(7) {
+            display: flex;
+        }
+
+        .signup-page form span:nth-child(7) label {
+            display: flex;
+            flex-wrap: wrap;
+            margin-top: 20px;
+            line-height: 25px;
+        }
+
+        .signup-page form span:nth-child(7) label span {
+            padding: 0;
+            height: fit-content;
+            align-items: flex-start;
+            width: fit-content !important;
+        } */
+    .signup-page .login-img {
+        display: none;
+    }
+
+
+
+
+    /* 404 page */
+    .error-text .button button {
+        width: 100%;
+        padding: 15px 30px;
+        font-weight: 700;
+    }
+
+    /* footer section */
+    footer .flex-box {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    * footer .footer-item {
+        width: 48%;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width:992px) {
+
+    /* navigation section */
+    .navigation-bar {
+        width: 90%;
+        height: 80px;
+    }
+
+    .navigation-bar .logo {
+        width: 20%;
+        display: flex;
+        align-items: center;
+    }
+
+    .navigation-bar .nav-items {
+        width: 72%;
+        display: flex;
+        align-items: center;
+    }
+
+    .navigation-bar ul {
+        width: 100%;
+        align-items: center;
+    }
+
+    .navigation-bar ul li a {
+        font-size: 15px !important;
+    }
+
+    /* banner text */
+    .Hero-section .flex-box {
+        display: block !important;
+    }
+
+    .Hero-section .hero-left {
+        width: 70%;
+        padding: 35px 0;
+        margin: 0 auto;
+        z-index: 66666;
+    }
+
+    .Hero-section .hero-left h3 {
+        font-size: 36px;
+    }
+
+    .Hero-section .hero-left h3 span {
+        font-size: 44px;
+    }
+
+    .Hero-section .hero-right {
+        width: 60%;
+        position: relative;
+        margin: 0 auto;
+        margin-top: 35px;
+    }
+
+    .Hero-section .hero-right .bg-image img {
+        width: 100%;
+        position: absolute;
+        bottom: 0;
+    }
+
+    .Hero-section .hero-right .bg-image img {
+        width: 100%;
+        position: absolute;
+        bottom: 0;
+    }
+
+
+    .section-title {
+        width: 75%;
+    }
+
+    .faq-section .section-title h4 {
+        font-size: 36px;
+    }
+
+    .why-choose-us .chooseUs-content-box {
+        flex-wrap: wrap;
+    }
+
+    .why-choose-us .chooseUs-content-box .content {
+        width: 30%;
+        height: 100%;
+        box-sizing: border-box;
+    }
+
+    .why-choose-us .content img {
+        width: 100px;
+        height: 100px;
+    }
+
+    .why-choose-us .content p {
+        margin-top: 0px;
+    }
+
+    /* join us waiting list */
+    .join-waitinglist-today {
+        margin-top: 100px;
+    }
+
+    .join-waitinglist-today .flex-box {
+        display: block;
+    }
+
+    .join-waitinglist-today .left-content {
+        width: 85%;
+        padding-top: 25px !important;
+        text-align: center;
+    }
+
+    .join-waitinglist-today .left-content button {
+        width: 40%;
+        margin: 0 auto;
+    }
+
+    .join-waitinglist-today .right-content {
+        width: 75%;
+        display: flex;
+        justify-content: center;
+        margin: 0 auto;
+    }
+
+    .join-waitinglist-today .right-content img {
+        position: static;
+        display: flex;
+        justify-content: center;
+        margin: 0 auto;
+    }
+
+
+    /*TESTIMONIALS SECTION */
+    .what-people-think-aboutus .testimonials-box {
+        margin-top: 50px;
+        display: block;
+    }
+
+    .faq-section .faq-box {
+        display: block;
+    }
+
+    .faq-section .left-img {
+        width: 60%;
+        margin: 30px auto;
+    }
+
+    .faq-section .faq-box .right-site-FAQs {
+        width: 80%;
+        margin: 0 auto;
+    }
+
+    .faq-section .right-site-FAQs .faq-item h4 {
+        font-size: 20px;
+    }
+
+    .faq-section .right-site-FAQs .faq-item span {
+        font-size: 15px;
+        top: 25px;
+    }
+
+    /* homepage blog section and blog page first section */
+    .Featured-month-section .flex-box {
+        display: block;
+    }
+
+    .Blog-section .left-site-content {
+        width: 100%;
+        margin: 50px auto;
+    }
+
+    .Blog-section .right-site-videos {
+        width: 75%;
+        margin: 25px auto;
+    }
+
+
+    /* about page company history */
+    .Compay-history-section .history-content-box {
+        width: 100%;
+    }
+
+    .Compay-history-section .history-banner {
+        width: 100%;
+        height: 299px;
+    }
+
+    .Compay-history-section .history-banner {
+        width: 100%;
+        height: 299px;
+        padding: 50px;
+    }
+
+    .Compay-history-section .history-content-box .text-box p {
+        width: 90%;
+        margin: 0 auto;
+        padding: 25px 0;
+        text-align: justify;
+    }
+
+
+    /* our values section */
+    .our-values-section .values-content-box {
+        margin-top: 0px;
+        flex-wrap: wrap;
+    }
+
+    .our-values-section {
+        margin: 150px 0;
+    }
+
+    .our-values-section .values-item {
+        width: 32%;
+        margin: 15px 0;
+    }
+
+    /* mission section */
+    .mission-section .mission-text {
+        text-align: justify;
+        margin-top: 42px;
+    }
+
+
+    /* qulified doctors section */
+    .Qualified-doctors-section {
+        margin-bottom: 55px;
+    }
+
+    .qualified-doctors-box {
+        flex-wrap: wrap;
+    }
+
+    .qualified-doctors-box .items-card {
+        width: 48%;
+    }
+
+    /* meet our leader section */
+    .meet-leader-section .leader-card-box {
+        flex-wrap: wrap;
+    }
+
+    .meet-leader-section .section-title {
+        margin: 30px auto;
+    }
+
+    .meet-leader-section .leader-card {
+        width: 30%;
+    }
+
+    /* homepage end */
+
+
+    /* about page  */
+    .Compay-history-section {
+        margin-top: 50px;
+    }
+
+    .section-title h3 {
+        font-size: 36px;
+    }
+
+    .Compay-history-section .history-banner p {
+        font-size: 22px;
+    }
+
+    .Compay-history-section .history-banner span {
+        font-size: 28px;
+    }
+
+    .meet-leader-section .leader-card .card-body h4 {
+        font-size: 22px;
+        font-weight: 600;
+    }
+
+    .meet-leader-section .leader-card .card-body p {
+        font-weight: 500;
+    }
+
+
+
+
+
+    /* services page*/
+    .why-choose-us .chooseUs-content-box {
+        padding-top: 55px;
+    }
+
+    .weekly-consultation .weekly-consultation-box {
+        display: block;
+    }
+
+    .weekly-consultation .left-site-img {
+        width: 60%;
+        margin: 25px auto;
+        position: static;
+    }
+
+    .weekly-consultation .left-site-img span {
+        width: 70%;
+        height: 100%;
+        margin: 25px auto;
+        position: static;
+        border-bottom: .5px solid var(--borderColor);
+    }
+
+    .weekly-consultation .left-site-img span img {
+        width: 100%;
+        height: 100%;
+        border-bottom: 1px solid var(--borderColor);
+    }
+
+    .weekly-consultation .right-site-content {
+        width: 85%;
+        margin: 0 auto;
+        margin-top: 30px;
+        text-align: justify;
+    }
+
+    .weekly-consultation .right-site-content h3 {
+        width: 90%;
+        font-size: 36px;
+        font-weight: 700;
+        text-align: left;
+    }
+
+    .weekly-consultation .left-site-img {
+        z-index: 999;
+    }
+
+
+
+    /* choose plan section */
+    .choose-plan-sectin .plan-box {
+        padding-top: 20px;
+        display: block;
+    }
+
+    .choose-plan-sectin .plan-box .heading {
+        margin-top: 0px;
+    }
+
+    .choose-plan-sectin .plan-box .left-price {
+        width: 80%;
+        margin: 25px auto;
+    }
+
+    .choose-plan-sectin .plan-box .right-site-plan {
+        width: 80%;
+        margin: 25px auto;
+        margin-top: 45px;
+    }
+
+    .choose-plan-sectin .plan-box .heading h4 {
+        font-size: 36px;
+        font-weight: 700;
+    }
+
+    .choose-plan-sectin .plan-box .heading span button {
+        display: flex;
+        align-items: center;
+        width: 50%;
+        height: fit-content;
+        padding: 15px 30px;
+
+    }
+
+    .choose-plan-sectin .plan-table-area table tbody {
+        width: 100%;
+        height: 60px;
+        padding: 0px 15px;
+    }
+
+    .choose-plan-sectin .plan-table-area table tr {
+        width: 100%;
+        height: 60px;
+        padding: 0px 15px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+
+    }
+
+    .choose-plan-sectin .plan-table-area thead th {
+        width: 100%;
+        display: flex;
+        align-items: flex-start;
+        justify-content: start !important;
+    }
+
+    .choose-plan-sectin .plan-table-area table tr img {
+        width: 25px;
+    }
+
+    .choose-plan-sectin .plan-table-area table tr td:first-child {
+        width: 100%;
+    }
+
+    .choose-plan-sectin .plan-table-area table tr td {
+        width: 100%;
+    }
+
+    .choose-plan-sectin .plan-table-area table tfoot button {
+        width: 100%;
+        height: 45px;
+        color: #3d3d3d;
+        font-size: 12px !important;
+        border: 1px solid rgba(50, 92, 244, 0.30);
+        box-shadow: 0px 0px white;
+    }
+
+
+    /* consultation section */
+
+    .weekly-consultation .weekly-consultation-box {
+        margin-top: 115px;
+        padding: 40px;
+    }
+
+
+
+    /* consultation section */
+    .consultation-section .items {
+        width: 100%;
+        display: flex;
+        margin: 35px 0;
+    }
+
+    .consultation-section .items .right-content span {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-right: 25px;
+    }
+
+    .consultation-section .items .right-content img {
+        width: 50px;
+        height: 50px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+    }
+
+    .consultation-section .items .right-content h4 {
+        width: 75%;
+        height: 100%;
+        flex-direction: column-reverse;
+        font-size: 24px;
+        font-weight: 600;
+        line-height: 35px;
+        padding-right: 10px;
+    }
+
+    .consultation-section .items .right-content p {
+        font-size: 18px;
+        text-align: justify;
+    }
+
+    .consultation-section .items .right-content {
+        width: 80%;
+        padding: 25px;
+    }
+
+    .consultation-section .items .left-img {
+        width: 80%;
+        padding: 15px;
+        margin: 0 auto;
+    }
+
+    .consultation-section .items .right-content h4 {
+        width: 100%;
+        font-size: 22px;
+    }
+
+    /* services page end */
+
+
+    /*What do we do */
+    .book-appointment .flex-box {
+        display: block;
+        width: 100%;
+        height: 100%;
+    }
+
+    .book-appointment .left-site-img {
+        width: 75%;
+        height: 100%;
+        justify-content: center;
+        margin: 25px auto;
+        padding-top: 50px;
+        transform: scale(1.0);
+        -webkit-transform: scale(1.0);
+        -moz-transform: scale(1.0);
+        -ms-transform: scale(1.0);
+        -o-transform: scale(1.0);
+    }
+
+    .book-appointment .left-site-img img {
+        width: 100%;
+    }
+
+    .book-appointment .appointment-content {
+        display: flex;
+        width: 80%;
+        margin: 25px auto;
+        padding: 30px;
+    }
+
+    .book-appointment p {
+        width: 100% !important;
+        text-align: left;
+    }
+
+
+    /* our science / blog page */
+    .Featured-month-section .left-site-content {
+        width: 100%;
+    }
+
+    .Featured-month-section .content-card {
+        width: 100%;
+    }
+
+    .Featured-month-section .right-site-videos {
+        width: 80%;
+        margin: 75px auto;
+    }
+
+    .Featured-month-section h3 {
+        font-size: 32px;
+    }
+
+
+    /* recently post section */
+    .recently-poost-section .title h4 {
+        padding-bottom: 30px;
+        margin-left: 15px;
+    }
+
+    .recently-poost-section {
+        margin: 85px 0;
+    }
+
+    .recently-poost-section .flex-box {
+        display: block;
+    }
+
+    .recently-poost-section .left-site-posts {
+        width: 100%;
+    }
+
+    .recently-poost-section .pagination {
+        width: 80%;
+        margin: 25px 0;
+        margin-top: -0px !important;
+    }
+
+    .recently-poost-section .pagination ul {
+        width: 100%;
+    }
+
+    .recently-poost-section .pagination ul li {
+        width: 20%;
+        height: 41px;
+        margin: 0px 16px;
+    }
+
+    .recently-poost-section .pagination ul button {
+        width: 80%;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 0;
+    }
+
+    .recently-poost-section .right-site-content {
+        width: 100%;
+        margin-top: 135px;
+    }
+
+    .recently-poost-section .right-site-content .ads-zone {
+        width: 100%;
+        height: 200px;
+        padding: 25px 50px;
+    }
+
+    .recently-poost-section .ads-zone button {
+        width: 30%;
+        height: 41px;
+        font-size: 15px;
+        font-weight: 600;
+        margin-top: 15px;
+    }
+
+    .recently-poost-section .blog-item {
+        border: 1px solid var(--borderColor);
+        border-radius: var(--borderRadius10);
+        -webkit-border-radius: var(--borderRadius10);
+        -moz-border-radius: var(--borderRadius10);
+        -ms-border-radius: var(--borderRadius10);
+        -o-border-radius: var(--borderRadius10);
+        padding: 10px;
+    }
+
+
+
+    .recently-poost-section .left-site-posts {
+        margin-bottom: 0;
+        padding-bottom: 0;
+    }
+
+    .recently-poost-section .pagination {
+        width: 70%;
+        margin: 0px 0;
+        padding: 0;
+    }
+
+    .recently-poost-section .pagination .recently-poost-section .pagination ul li {
+        width: 30%;
+        height: 41px;
+        margin: 0px 16px;
+    }
+
+    /* Blog/our science page end */
+
+
+    /* portal page */
+    /* .prortal-layout .left-sitebar{
+        position: static;
+        width: 30% !important;
+        display: none !important;
+    } */
+    .prortal-layout .left-sitebar {
+        width: 50% !important;
+        display: none;
+    }
+
+    .prortal-layout .left-sitebar .sidebar-navitems {
+        margin-top: 62px;
+    }
+
+    .prortal-layout .right-siteContent {
+        width: 80%;
+        padding: 50px;
+        padding-bottom: 30px;
+    }
+
+    .portal-bars {
+        display: block;
+    }
+
+    .page-title h5 {
+        font-size: 22px;
+    }
+
+    .page-title h5 span {
+        font-size: 28px !important;
+    }
+
+    .science-section .scientist-box .item h6 {
+        font-size: 16px;
+        margin-top: 10px;
+    }
+
+    .prortal-layout .left-sitebar {
+        display: none;
+    }
+
+    .prortal-layout .right-siteContent {
+        width: 100%;
+    }
+
+    /* portal page end */
+
+
+    /* login page */
+    .signup-page .login-img {
+        /* width: 100%;
+        height:500px;
+        object-fit: contain; */
+        display: none;
+    }
+
+    /* .signup-page .login-img img{
+        width:100%;
+        height:100%;
+        padding: 25px;
+    } */
+    .signup-page .blur-text {
+        display: none;
+    }
+
+    .signup-page .title h4 {
+        font-size: 38px;
+    }
+
+    .signup-page .title p {
+        font-size: 18px;
+    }
+
+    .signup-page span img {
+        width: 25px;
+        right: -35px;
+        top: 15px;
+        cursor: pointer;
+    }
+
+    .signup-page form span input[type="checkbox"] {
+        cursor: pointer;
+        width: 40px !important;
+        height: 20px !important;
+        position: relative;
+        margin-right: 15px;
+        padding: 0;
+    }
+
+
+    .signup-page form span input[type="checkbox"]::after {
+        content: " ";
+        width: 50px;
+        height: 25px;
+        position: absolute;
+        left: -2px;
+        top: 0;
+        background-color: white;
+        color: white;
+    }
+
+    .signup-page form span input[type="checkbox"]::before {
+        content: " ";
+        width: 22px;
+        height: 22px;
+        border-radius: 50%;
+        position: absolute;
+        left: 0;
+        top: 1px;
+    }
+
+    .signup-page form span input[type="checkbox"]:checked::before {
+        content: " ";
+        top: 1px;
+        left: 25px;
+        background-color: white;
+    }
+
+    /* signup page done */
+
+    /* general page */
+    .General-page-section .section-title {
+        width: 70% !important;
+    }
+
+    .General-page-section .section-title h3 {
+        text-align: center;
+        font-size: 32px !important;
+    }
+
+    /* contact page  */
+    .contact-page .flex-box {
+        display: block;
+    }
+
+    .signup-page .signup-form {
+        width: 70% !important;
+    }
+
+    .signup-page .title p {
+        font-size: 22px;
+        color: #3d3d3d;
+        font-weight: 600;
+        margin-top: 5px;
+
+    }
+
+    .signup-page .map {
+        width: 100% !important;
+        height: 100% !important;
+        margin-top: 50px;
+        height: fit-content;
+    }
+
+    .signup-page iframe {
+        width: 100% !important;
+        height: 350px !important;
+        margin-top: 50px;
+        height: fit-content;
+    }
+
+    /* portal page */
+    .prortal-layout .right-siteContent .page-title {
+        background-color: whitesmoke;
+        padding: 10px 15px;
+        border-radius: var(--borderRadius10);
+        -webkit-border-radius: var(--borderRadius10);
+        -moz-border-radius: var(--borderRadius10);
+        -ms-border-radius: var(--borderRadius10);
+        -o-border-radius: var(--borderRadius10);
+    }
+
+    .chart-section .flex-box {
+        width: 100%;
+        display: flex;
+    }
+
+    .chart-section .chart-card {
+        width: 47%;
+    }
+
+
+
+
+
+
+    /* error page */
+
+    .error-text .button button {
+        width: 100%;
+    }
+
+    /* footer section */
+    footer {
+        height: fit-content;
+    }
+
+    footer .flex-box {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    footer .footer-item {
+        margin: 25px 0;
+    }
+
+    footer .flogo img {
+        width: 70%;
+    }
+
+    footer .footer-item:nth-child(2) {
+        width: 48%;
+    }
+
+    footer .footer-item:nth-child(3) {
+        width: 40%;
+    }
+
+    footer .footer-item:nth-child(3) ul {
+        width: 80%;
+        display: inline-flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+
+    footer .flogo .social-icons span svg {
+        font-size: 18px;
+    }
+}
+
+
+
+
+
+
+
+
+/*  */
+
+
+@media only screen and (max-width:768px) {
+
+
+    /* navigation bar styles */
+    .navigation-bar {
+        position: relative;
+    }
+
+    /* MOBILE NAV ICONS */
+    .bars-icon {
+        display: block;
+    }
+
+    .bars-icon {
+        font-size: 22px;
+        position: absolute;
+        top: 25px;
+        right: 0;
+        cursor: pointer;
+    }
+
+    .bars-icon .cross {
+        display: none;
+    }
+
+    /* MOBILE NAVBAR ICON END */
+
+
+    .navigation-bar .logo {
+        width: 25%;
+    }
+    header{
+        padding: 0;
+        position: relative;
+    }
+
+    .navigation-bar .nav-items {
+        /* padding: 25px; */
+        display: block;
+        width: 100vw;
+        height: 400px;
+        position: absolute;
+        left: -0px;
+        top: 100%;
+        display: block;
+        margin: 0px;
+        background-color: #fff;
+        box-shadow: var(--DropShadow);
+        z-index: 99999;
+        display: none;
+    }
+
+    .navigation-bar .nav-items ul {
+        width: 100%;
+        display: block;
+        margin-left: 0px;
+    }
+
+    .navigation-bar .nav-items ul li {
+        width: 100%;
+        display: block;
+        margin: 20px 0;
+        text-align: center;
+    }
+
+    .navigation-bar .nav-items ul li:last-child {
+        width: 40%;
+        display: block;
+        margin: 20px auto;
+        text-align: center;
+    }
+
+    .navigation-bar .nav-items ul li:last-child {
+        justify-content: center;
+        text-align: center;
+    }
+
+    .navigation-bar .nav-items ul li:last-child a {
+        width: 80%;
+        color: #fff;
+        justify-content: center;
+        text-align: center;
+    }
+
+    .navigation-bar .nav-items ul li a {
+        width: 100%;
+        z-index: 9999;
+        color: #3d3d3d;
+        margin: 50px 0;
+    }
+
+
+    .section-title {
+        width: 80%;
+    }
+
+    .section-title h3 {
+        font-size: 36px;
+        margin: 10px 0;
+    }
+
+    .section-title h4 {
+        font-size: 30px !important;
+        margin: 10px 0;
+    }
+
+    /* home page */
+
+
+
+
+    .why-choose-us .chooseUs-content-box .content {
+        width: 45%;
+    }
+
+    /* waiting list today section */
+    .join-waitinglist-today .left-content h3 {
+        font-size: 34px;
+        line-height: 45px;
+        padding-top: 25px;
+    }
+
+    /* testimonials  */
+    .what-people-think-aboutus .item {
+        margin-top: 25px;
+    }
+
+    .what-people-think-aboutus .owl-nav {
+        width: 100px;
+        display: flex;
+        gap: 10px;
+        position: absolute;
+        top: -35px !important;
+        right: 25px;
+    }
+
+    /* blog section */
+    .Featured-month-section .content-card {
+        display: block;
+        height: 100%;
+        padding: 20px;
+    }
+
+    .Featured-month-section .content-card .left-img {
+        width: 100%;
+    }
+
+    .Featured-month-section .content-texts {
+        width: 90%;
+        margin: 25px auto;
+    }
+
+    /* home page end */
+
+
+    /* about page */
+    .Compay-history-section .history-banner {
+        height: 250px;
+    }
+
+    .Compay-history-section .history-banner p {
+        font-size: 22px !important;
+    }
+
+    .Compay-history-section .history-content-box .text-box p {
+        width: 100%;
+        font-size: 18px;
+    }
+
+    .mission-section .mission-text {
+        font-size: 20px;
+    }
+
+    .our-values-section .values-item {
+        width: 48%;
+        margin: 15px 0;
+    }
+
+    .meet-leader-section .leader-card {
+        width: 48%;
+    }
+
+
+    /* service page*/
+    .why-choose-us .chooseUs-content-box {
+        padding-top: 35px;
+    }
+
+    .Service-offer-section .section-title p {
+        font-size: 16px;
+    }
+
+    .weekly-consultation .left-site-img {
+        width: 80%;
+    }
+
+    .choose-plan-sectin {
+        margin-top: 100px;
+        margin-bottom: 100px;
+    }
+
+
+
+    /* choose plan section */
+    .choose-plan-sectin .plan-box .left-price {
+        width: 95%;
+        margin: 25px auto;
+    }
+
+    .choose-plan-sectin .plan-box .right-site-plan {
+        width: 95%;
+        margin: 25px auto;
+        margin-top: 25px;
+        padding: 50px 15px;
+    }
+
+    .choose-plan-sectin .plan-box .right-site-plan .plan-items {
+        width: 100%;
+        justify-content: space-between;
+    }
+
+    .choose-plan-sectin .plan-box .heading h4 {
+        font-size: 30px;
+        font-weight: 700;
+    }
+
+    .choose-plan-sectin .plan-table-area table {
+        width: 100%;
+        height: 100%;
+        text-align: left;
+        margin-top: 15px;
+        margin-bottom: 45px;
+        overflow-x: auto;
+    }
+
+    /* .choose-plan-sectin .plan-table-area table tfoot{
+            width: 100%;
+            background-color: red;
+            font-size: 12px;
+        }
+        .choose-plan-sectin .plan-table-area table tfoot button {
+            width: 50%;
+            font-size: 15px;
+            height: 40px;
+        } */
+
+
+    /* service page */
+    /* consultation section */
+    .consultation-section .items {
+        width: 100%;
+        display: block;
+        margin: 35px 0;
+    }
+
+    .consultation-section .items .right-content {
+        width: 80%;
+        margin: 20px auto;
+    }
+
+    .recently-poost-section .todays-update {
+        margin-top: 55px;
+    }
+
+    .recently-poost-section .todays-update h4 {
+        margin-bottom: 20px;
+    }
+
+    .recently-poost-section .search-tags h4 {
+        margin-top: 50px;
+        margin-bottom: 20px;
+    }
+
+    .recently-poost-section .search-tags ul {
+        margin-bottom: 25px;
+    }
+
+    .recently-poost-section .search-tags ul li {
+        font-size: 14px;
+        padding: 10px 20px;
+    }
+
+    /* service page end */
+
+    /* blog page */
+    .recently-poost-section .pagination {
+        width: 80%;
+        margin-left: -20px;
+    }
+
+    .recently-poost-section .pagination ul {
+        width: 80%;
+        margin-left: -20px;
+    }
+
+
+
+    /* what do we do / doctor bio */
+    .book-appointment .appointment-content button {
+        width: fit-content;
+        padding: 15px 25px;
+    }
+
+    /* blog page pagination */
+    .recently-poost-section .pagination ul {
+        width: 100%;
+        margin-left: 10px !important;
+    }
+
+    /* login page */
+
+    .login-page .flex-box {
+        padding: 0;
+        width: 100%;
+        display: block;
+    }
+
+    .signup-area {
+        padding: 20px;
+    }
+
+    .signup-page .signup-form {
+        width: 100% !important;
+    }
+
+    .signup-page .signup-form {
+        width: 100%;
+    }
+
+    .signup-page form span textarea {
+        width: 100%;
+        height: 187px;
+    }
+
+    .signup-page .login-img {
+        width: 80%;
+        padding: 50px;
+        height: 100%;
+        object-fit: contain;
+        position: relative;
+    }
+
+
+
+    .signup-page iframe {
+        width: 95%;
+        height: 600px;
+    }
+
+    .signup-page .signup-area {
+        padding: 75px 30px;
+    }
+
+    .signup-page .signup-form {
+        width: 70%;
+        margin: 0px;
+        margin-left: -15px;
+    }
+
+    .signup-page .signup-form form {
+        width: 90%;
+    }
+
+    .signup-page .signup-form input {
+        width: 100%;
+        margin: 0;
+    }
+
+    .signup-page span img {
+        width: 18px;
+        right: -25px;
+        top: 15px;
+        cursor: pointer;
+    }
+
+    .signup-page .signup-form span {
+        border: var(--borderColor);
+    }
+
+    .signup-page .login-other-way {
+        width: 100%;
+        padding-bottom: 35px;
+    }
+
+    .signup-page .login-other-way .google {
+        width: 100%;
+        height: 30px;
+        margin: 0 auto;
+        margin-top: 75px;
+    }
+
+    .signup-page .login-other-way .google {
+        padding: 10px 15px;
+        display: flex;
+        justify-content: center;
+        gap: 10px;
+        align-items: center;
+
+    }
+
+    .signup-page .login-other-way button img {
+        width: 25px;
+    }
+
+    .signup-page .login-other-way button {
+        width: 48%;
+        height: 22px;
+        font-size: 13px !important;
+    }
+
+    .signup-page .login-other-way button:nth-child(2) {
+        height: 22px;
+    }
+
+    /* general page */
+
+    .General-page-section .section-title h3 {
+        text-align: center;
+        font-size: 32px !important;
+        margin: 0px !important;
+    }
+
+    .General-page-section .section-title {
+        width: 90% !important;
+    }
+
+
+    /* portal page  */
+    .prortal-layout .left-sitebar .sidebar-navitems ul li a {
+        font-size: 14px;
+    }
+
+    .prortal-layout .overview-items-box {
+        display: block;
+    }
+
+    .prortal-layout .right-siteContent {
+        padding: 20px;
+    }
+
+    .prortal-layout .overview-items-box .item {
+        width: 100%;
+        margin: 25px auto;
+    }
+
+    .prortal-layout .overview-items-box .item h6 {
+        font-size: 20px;
+    }
+
+    .science-section .scientist-box {
+        display: block;
+    }
+
+    .science-section .scientist-box .item {
+        width: 100%;
+        padding: 15px;
+        margin: 15px 0;
+        border: 1px solid var(--borderColor);
+        border-radius: 10px;
+        -webkit-border-radius: 10px;
+        -moz-border-radius: 10px;
+        -ms-border-radius: 10px;
+        -o-border-radius: 10px;
+    }
+
+    .science-section .scientist-box .item img {
+        width: 100%;
+        border-radius: var(--borderRadius10);
+        -webkit-border-radius: var(--borderRadius10);
+        -moz-border-radius: var(--borderRadius10);
+        -ms-border-radius: var(--borderRadius10);
+        -o-border-radius: var(--borderRadius10);
+    }
+
+    .science-section .scientist-box .item h6 {
+        font-size: 16px;
+        margin-top: 10px;
+    }
+
+    /* error page img */
+    .error-section .error-img {
+        width: 55%;
+    }
+
+}
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width:640px) {
+
+
+    /* banner section */
+    /* banner */
+    .Hero-section .hero-left {
+        width: 100%;
+    }
+
+    .Hero-section .hero-left h3 {
+        font-size: 28px;
+    }
+
+    .Hero-section .hero-left h3 span {
+        font-size: 32px;
+    }
+
+    .Hero-section .hero-left p {
+        margin: 20px 0;
+        font-size: 18px;
+    }
+
+    .Hero-section .hero-left h3 span {
+        font-size: 32px;
+    }
+
+    .Hero-section .hero-right {
+        width: 70%;
+        position: relative;
+        margin: 0 auto;
+        margin-top: 35px;
+    }
+
+    .testimonials-box .review-body p {
+        font-size: 16px;
+        font-weight: 500;
+
+    }
+
+    .faq-section .left-img {
+        width: 90%;
+        margin: 30px auto;
+    }
+
+    .faq-section .right-site-FAQs .faq-item h4 {
+        font-size: 18px;
+    }
+
+
+    /* about page */
+
+    .why-choose-us {
+        padding: 55px 0;
+        padding-bottom: 0;
+    }
+
+
+
+    /* services page */
+    /* service page start  */
+    .Service-offer-section .section-title {
+        width: 100%;
+    }
+
+    .weekly-consultation .left-site-img {
+        width: 100%;
+    }
+
+    .line-bg {
+        display: none;
+    }
+
+
+    .weekly-consultation .section-title {
+        width: 100%;
+    }
+
+    .weekly-consultation .right-site-content {
+        margin-top: 75px;
+        padding: 25px 0;
+    }
+
+    .weekly-consultation .right-site-content h3 {
+        font-size: 24px;
+        padding: 0;
+        width: 100%;
+    }
+
+    .weekly-consultation .right-site-content p {
+        font-size: 14px;
+        padding: 0;
+        width: 100%;
+        text-align: left;
+    }
+
+    .consultation-section {
+        margin-top: 80px;
+    }
+
+    .consultation-section .section-title {
+        width: 100%;
+    }
+
+    .consultation-section .section-title h4 {
+        font-size: 26px;
+    }
+
+    .consultation-section .items .left-img {
+        width: 100%;
+    }
+
+    .consultation-section .items .right-content {
+        width: 100%;
+    }
+
+    .choose-plan-sectin .plan-table-area table th {
+        font-size: 15px;
+    }
+
+    .choose-plan-sectin .plan-table-area table tr img {
+        width: 16px;
+    }
+
+    .choose-plan-sectin .plan-table-area tbody td {
+        font-size: 12px;
+    }
+
+    .choose-plan-sectin .plan-table-area tfoot tr:last-child button {
+        width: 100%;
+        font-weight: 400;
+        font-size: 12px;
+    }
+
+    /* about page */
+    .our-values-section .values-item {
+        width: 100%;
+    }
+
+    .meet-leader-section .leader-card {
+        width: 100%;
+    }
+
+    .meet-leader-section .leader-card img {
+        width: 640px;
+    }
+
+
+
+    .qualified-doctors-box .items-card {
+        width: 100%;
+    }
+
+    /* services page */
+    .choose-plan-sectin .plan-box .left-price h3 {
+        font-size: 32px;
+    }
+
+    .choose-plan-sectin .plan-box {
+        padding-top: 00px;
+    }
+
+    .choose-plan-sectin .plan-box .heading span button {
+        display: flex;
+        align-items: center;
+        padding: 15px 10px;
+    }
+
+
+    /* blog page */
+    .Featured-month-section .content-texts .card-body {
+        flex-wrap: wrap;
+    }
+
+    .Featured-month-section {
+        padding-top: 30px;
+    }
+
+    .Featured-month-section h3 {
+        font-size: 22px;
+    }
+
+    .Featured-month-section .content-card .left-img {
+        padding: 0;
+    }
+
+    .Featured-month-section .content-texts .card-title h5 {
+        font-size: 18px;
+    }
+
+    .Featured-month-section .content-texts .card-body {
+        font-size: 13px;
+    }
+
+    /* popular video section */
+    .Featured-month-section .right-site-videos h5 {
+        font-size: 24px;
+    }
+
+    .Featured-month-section .video-contents {
+        padding-top: 70px;
+    }
+
+    .Featured-month-section .video-contents .items {
+        width: 90%;
+        margin: 25px auto;
+        display: block;
+        text-align: center;
+        object-fit: unset;
+    }
+
+    .Featured-month-section .items .video {
+        width: 100%;
+        margin-bottom: 10px;
+    }
+
+    .Featured-month-section .items .texts .bottom {
+        width: 70%;
+    }
+
+    /* Recently post */
+    .recently-poost-section .title h4 {
+        padding-bottom: 0px;
+        margin-left: 15px;
+        font-size: 28px;
+    }
+
+    .recently-poost-section .blog-item {
+        width: 100%;
+    }
+
+    .recently-poost-section .blog-item .blog-img img {
+        width: 100%;
+        object-fit: contain;
+        padding-right: 0;
+    }
+
+    .recently-poost-section .pagination {
+        width: 60%;
+        margin: 0px auto;
+    }
+
+    .recently-poost-section .blog-item .blog-body span h4 {
+        font-size: 20px;
+    }
+
+    .recently-poost-section .right-site-content .ads-zone {
+        height: 100%;
+    }
+
+    .recently-poost-section .right-site-content .ads-zone h4 {
+        font-size: 16px;
+    }
+
+    .recently-poost-section .right-site-content .ads-zone p {
+        font-size: 12px;
+    }
+
+    .recently-poost-section .ads-zone button {
+        width: 65%;
+        margin-top: 10px;
+        font-size: 12px;
+    }
+
+    .recently-poost-section .pagination {
+        width: 80%;
+        display: flex;
+        justify-content: center;
+        margin: 0 auto;
+    }
+
+
+    .recently-poost-section .pagination ul li {
+        width: 20% !important;
+        height: 20px;
+        font-size: 8px;
+    }
+
+    /* blog page end */
+
+
+
+    /* portal page */
+    .prortal-layout .left-sitebar {
+        width: 60% !important;
+        padding-top: 40px;
+    }
+
+    .prortal-layout .left-sitebar .profile img {
+        width: 20px;
+        height: 20px;
+    }
+
+    .prortal-layout .left-sitebar .profile h6 {
+        font-size: 12px !important;
+    }
+
+    .prortal-layout .left-sitebar .sidebar-navitems ul li {
+        margin: 15px 0;
+    }
+
+    .prortal-layout .left-sitebar .sidebar-navitems ul li a {
+        font-size: 13px;
+    }
+
+    .prortal-layout .left-sitebar .sidebar-navitems ul li svg {
+        width: 15px;
+    }
+
+    /* portal right site contetn */
+    .prortal-layout .right-siteContent .page-title {
+        flex-wrap: wrap;
+    }
+
+    .prortal-layout .right-siteContent .page-title h5 {
+        font-size: 13px;
+    }
+
+    .prortal-layout .right-siteContent .page-title h5 span {
+        font-size: 15px !important;
+    }
+
+    .prortal-layout .right-siteContent .page-title p {
+        font-size: 14px !important;
+    }
+
+    .prortal-layout .weather-box span img {
+        width: 22px;
+    }
+
+    .prortal-layout .weather-box p,
+    article {
+        font-size: 12px;
+    }
+
+    /* overview */
+    .prortal-layout .latest-overview h4 {
+        font-size: 22px;
+        margin-top: 20px;
+    }
+
+    /* charts */
+    .chart-section .chart-card {
+        width: 90%;
+        margin: 15px auto;
+    }
+
+    .prortal-layout .overview-items-box .item {
+        width: 100%;
+    }
+
+    /* science section */
+    .prortal-layout .science-section {
+        padding: 20px;
+    }
+
+    /* error page */
+    .error-section .error-img {
+        width: 60%;
+    }
+
+    .error-text p,
+    a {
+        font-size: 17px;
+    }
+
+    .error-text .button button {
+        width: 100%;
+        padding: 15px 20px;
+        font-weight: 500;
+        font-size: 14px;
+    }
+
+    /* login page */
+    .signup-page .title h4 {
+        font-size: 28px;
+    }
+
+    .signup-page .title p {
+        font-size: 16px;
+    }
+
+    .signup-page form span label {
+        height: 15px;
+        display: block;
+        align-items: center;
+        margin-left: 15px;
+        font-size: 10px;
+        font-weight: 600;
+    }
+
+    .signup-page .login-page span label {
+        font-size: 14px;
+        display: flex;
+        align-items: center;
+    }
+
+    .signup-page .login-page span label a {
+        font-size: 14px;
+        display: flex;
+        align-items: center;
+        margin-top: 5px;
+    }
+
+    .signup-page form .button button {
+        height: 35px;
+        font-size: 16px;
+        margin: 0 auto;
+    }
+}
+
+
+
+
+
+
+
+@media (max-width:450px) {
+
+
+    /* container class */
+    .container {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    /* navbar */
+    .navigation-bar .logo {
+        width: 40%;
+    }
+
+    .navigation-bar .nav-items ul li:last-child {
+        width: 50%;
+        display: block;
+        margin: 20px auto;
+        text-align: center;
+    }
+
+
+
+    .navigation-bar .nav-items ul {
+        width: 100%;
+        margin: 45px auto;
+    }
+
+
+
+    .navigation-bar .nav-items ul li a {
+        color: #3d3d3d;
+    }
+
+    /* home page */
+    /* banner section */
+    .Hero-section .hero-left button {
+        width: 60%;
+        font-size: 14px;
+        padding: 10px 20px;
+    }
+
+    .Hero-section .hero-right {
+        width: 100%;
+        position: relative;
+        margin: 0 auto;
+        margin-top: 35px;
+    }
+
+    .Hero-section .hero-right .slide-icon img {
+        width: 70px;
+        height: 70px;
+        z-index: 4444;
+        top: 70px;
+        right: -70px;
+    }
+
+    .why-choose-us .section-title h3 {
+        font-size: 24px;
+    }
+
+    .why-choose-us .section-title p {
+        font-size: 16px;
+        line-height: medium;
+    }
+
+    /* join our waitng today section */
+    .join-waitinglist-today .left-content h3 {
+        font-size: 26px;
+    }
+
+    .join-waitinglist-today .left-content p {
+        font-size: 17px;
+    }
+
+    .join-waitinglist-today .left-content h6 {
+        font-size: 19px;
+    }
+
+    .join-waitinglist-today .left-content button {
+        width: 50%;
+        font-size: 15px;
+        padding: 10px;
+    }
+
+    /* testimonials section */
+    .section-title h4 {
+        font-size: 22px !important;
+        margin: 10px 0;
+    }
+
+    .testimonials-box .review-heading .profile {
+        width: 100%;
+    }
+
+    .testimonials-box .review-heading .flex-box {
+        display: block;
+    }
+
+    .testimonials-box .review-heading .flex-box>.flex-box {
+        display: flex;
+    }
+
+    .testimonials-box .review-heading .profile h6 {
+        text-transform: capitalize;
+        font-size: 20px;
+        font-weight: 600;
+    }
+
+    .testimonials-box .review-heading .rating svg {
+        width: 12px;
+    }
+
+    /* faq */
+    .faq-section .section-title p {
+        font-size: 16px;
+
+    }
+
+    .faq-section .right-site-FAQs .faq-item span {
+        width: 30px;
+        height: 30px;
+        position: absolute;
+        right: 0px;
+        top: 18px;
+        font-size: 15px;
+    }
+
+    /* blog section */
+    .Blog-section .container {
+        padding: 50px 15px;
+    }
+
+    /* about page */
+
+    .our-values-section {
+        margin-bottom: 35px;
+    }
+
+    .our-values-section .values-content-box {
+        margin-top: 50px;
+    }
+
+
+
+
+    /* service page start  */
+    .why-choose-us .chooseUs-content-box {
+        display: block;
+        padding-top: 25px;
+    }
+
+
+    .why-choose-us .content {
+        width: 85% !important;
+        margin: 25px auto;
+    }
+
+    .weekly-consultation .left-site-img span {
+        width: 100%;
+        padding: 10px;
+    }
+
+    .weekly-consultation-box {
+        padding: 0 !important;
+    }
+
+    .choose-plan-sectin .plan-box .heading span {
+        display: block;
+        margin-top: 10px;
+    }
+
+    .choose-plan-sectin .plan-box button {
+        width: 80%;
+        height: 40px;
+        margin: 0 auto;
+        font-weight: 600;
+        font-size: 14px;
+    }
+
+    /* service page end */
+
+    .Featured-month-section .items .texts .bottom {
+        width: 85%;
+    }
+
+    .recently-poost-section .pagination {
+        width: 80%;
+        margin: 0px auto;
+    }
+
+    /* blog page pagination */
+
+    .recently-poost-section .pagination {
+        width: 100%;
+    }
+
+    .recently-poost-section .pagination a {
+        width: fit-content !important;
+        padding: 10px 15px;
+        font-size: 12px;
+    }
+
+    .recently-poost-section .pagination ul {
+        width: 50%;
+        justify-content: space-evenly;
+        margin-left: 0px !important;
+    }
+
+    .recently-poost-section .pagination ul li {
+        width: 30px !important;
+        padding: 5px 10px;
+        font-size: 12px;
+        margin: 0;
+    }
+
+    .Blog-section .button {
+        font-size: 13px;
+    }
+
+
+
+
+    /* footer */
+    footer .footer-item {
+        width: 100% !important;
+    }
+
+    footer .flogo img {
+        width: 50%;
+    }
+
+    footer .flogo .flogo p {
+        text-align: left;
+    }
+
+    footer .footer-item h5 {
+        font-size: 18px;
+    }
+
+    footer .flogo .social-icons {
+        width: 25%;
+    }
+}
