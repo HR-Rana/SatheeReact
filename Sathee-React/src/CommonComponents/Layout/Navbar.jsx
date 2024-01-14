@@ -1,5 +1,5 @@
 import React from 'react'
-import { Link } from 'react-router-dom'
+import { Link, NavLink } from 'react-router-dom'
 import logo from '../../assets/Images/logo/logo.png'
 export default function Navbar() {
   return (
@@ -15,21 +15,21 @@ export default function Navbar() {
 						<div className="nav-items">
 							<ul>
 								<li>
-									<Link className="active" to="/">
+									<NavLink to="/">
 										Home
-									</Link>
+									</NavLink>
 								</li>
 								<li>
-									<Link to="About">Who we are</Link>
+									<NavLink to="About">Who we are</NavLink>
 								</li>
 								<li>
-									<Link to="Service">What we do</Link>
+									<NavLink to="Service">What we do</NavLink>
 								</li>
 								<li>
-									<Link to="/Blog">Our Science</Link>
+									<NavLink to="/Blog">Our Science</NavLink>
 								</li>
 								<li>
-									<Link to="/Login">Login</Link>
+									<NavLink to="/Login">Login</NavLink>
 								</li>
 							</ul>
 						</div>
