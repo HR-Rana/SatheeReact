@@ -410,7 +410,8 @@ header {
 
 .join-waitinglist-today .container {
   height: 489px;
-  background: url('../image/Home/Group 355645.png');
+  background: url('../Images//Home/Group\ 355645.png');
+  /* background: url('../image/Home/Group 355645.png'); */
   background-repeat: no-repeat;
   background-size: cover;
   position: right right;
